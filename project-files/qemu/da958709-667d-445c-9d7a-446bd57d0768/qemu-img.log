@@ -1,1 +1,1 @@
-Formatting 'C:\projetos\6periodo\redes\Trabalho-redes2 - Copia\project-files\qemu\da958709-667d-445c-9d7a-446bd57d0768\hda_disk.qcow2', fmt=qcow2 size=67108864 backing_file=C:/Users/felip/GNS3/images/QEMU/chr-6.48.1.img cluster_size=65536 lazy_refcounts=off refcount_bits=16
+C:\Program Files\GNS3\qemu-3.1.0\qemu-img.exe: This image format does not support checks
